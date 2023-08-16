@@ -32,11 +32,11 @@ This application is deployed to [Heroku]()
 ## Application Screenshot
 
 Mobile View
-![Application Screenshot](src/assets/projectimg/main.png)
-![Application Screenshot](src/assets/projectimg/sidelist.png)
+![Application Screenshot](src/assets/screenshots/main.png)
+![Application Screenshot](src/assets/screenshots/sidelist.png)
 
 Pc View
-![Application Screenshot](src/assets/projectimg/expension.png)
+![Application Screenshot](src/assets/screenshots/expension.png)
 
 
 ## Questions
