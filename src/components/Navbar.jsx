@@ -87,7 +87,7 @@ const handleClick = () => setNav(!nav)
                 </a>
             </li> 
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#709775]'>
-                <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                <a className='flex justify-between items-center w-full text-gray-300' href="https://docs.google.com/document/d/16TZyCVZYqASVo-cqxRj9hvpN0SNmiyNS/edit?usp=sharing&ouid=106756831962986098517&rtpof=true&sd=true">
                     Resume <BsFillPersonLinesFill size={30} /> 
                 </a>
             </li> 
