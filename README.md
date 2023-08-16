@@ -27,7 +27,7 @@ SO THAT I can assess whether they're a good candidate for an open position
     ```
 
 ## Heroku Link
-This application is deployed to [Heroku]()
+This application is deployed to [Github]()
 
 ## Application Screenshot
 
