@@ -13,7 +13,7 @@ const Home = () => {
         <div className='realtive mx-auto items-end'>
             
           </div>
-          <img src={himage} alt="logo" className='shadow-md shadow-[#040c16] w-[150px] h-[200px] rounded-lg ' />
+          <img src={himage} alt="logo" className='shadow-md shadow-[#485565] w-[150px] h-[200px] rounded-lg ' />
           <p className='text-[#A3CEF1]'>Hi, my name is
           </p>
           <h1 className='text-4xl sm:text-7xl font-bold text-[#A3CEF1]'>  Tian Guo </h1>
