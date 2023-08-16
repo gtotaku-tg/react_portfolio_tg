@@ -24,12 +24,13 @@
   background-size: cover;
   background-position: center;
   height:250px;
+  
 }
 
 .content-div:hover{
   background-image: linear-gradient(
     to right,
     rgba(0, 0, 0, 0.8),
-    hsla(242, 74%, 61%, 0.8)
-  )
+    hsla(240, 21%, 42%, 0.8)
+  )!important;
 }
