@@ -35,7 +35,7 @@ const handleClick = () => setNav(!nav)
                 </Link>
             </li>
             <li>
-                <Link to ='works' smooth={true} duration={500}> 
+                <Link to ='projects' smooth={true} duration={500}> 
                 Projects
                 </Link>
             </li>
