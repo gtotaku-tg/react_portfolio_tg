@@ -36,7 +36,7 @@ const handleClick = () => setNav(!nav)
             </li>
             <li>
                 <Link to ='projects' smooth={true} duration={500}> 
-                Projects
+                    Projects
                 </Link>
             </li>
             <li>
@@ -63,7 +63,7 @@ const handleClick = () => setNav(!nav)
                     Skills 
                 </Link></li>
             <li className='py-6 text-4xl'><Link onClick={handleClick} to ='projects' smooth={true} duration={500}> 
-                Projects
+                    Projects
                 </Link></li>
             <li className='py-6 text-4xl'><Link onClick={handleClick} to ='contact' smooth={true} duration={500}> 
                     Contact 

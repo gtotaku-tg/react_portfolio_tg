@@ -9,7 +9,7 @@ import Ecommerce from "../assets/projectimg/Ecommerce.png";
 function Projects() {
   return (
     <div
-      name="project"
+      name="projects"
       className="w-full md:h-screen bg-[#8E9AAF] text-[#DEE2FF]  ">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full ">
         <div className="pb-8">
