@@ -5,6 +5,7 @@ import booksearch from "../assets/projectimg/booksearch.png";
 import texteditor from "../assets/projectimg/texteditor.png";
 import dicandtran from "../assets/projectimg/dicandtran.png";
 import Ecommerce from "../assets/projectimg/Ecommerce.png";
+import finalMusic from "../assets/projectimg/finalMusicApp.png";
 
 function Projects() {
   return (
@@ -20,6 +21,30 @@ function Projects() {
         </div>
         {/* container  */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+          {/* grid */}
+          <div
+            style={{ backgroundImage: `url(${finalMusic})` }}
+            className="shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* hover */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <spam className="text-2xl font-bold text-[#DEE2FF] tracking-wider">
+                Music and chat
+              </spam>
+              <div className="pt-8 text-center">
+                <a href="https://musicapp-g7-8464089b4e0f.herokuapp.com/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#8E9AAF] text-[#DEE2FF] font-bold text-lg">
+                    Project
+                  </button>
+                </a>
+                <a href="https://github.com/gtotaku-tg/MusicApp">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#8E9AAF] text-[#DEE2FF] font-bold text-lg">
+                    Codes
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
           {/* grid */}
           <div
             style={{ backgroundImage: `url(${portfolioCSSHTML})` }}
